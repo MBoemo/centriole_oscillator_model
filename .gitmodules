@@ -1,0 +1,3 @@
+[submodule "shadedErrorBar"]
+	path = shadedErrorBar
+	url = https://github.com/raacampbell/shadedErrorBar.git
