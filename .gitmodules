@@ -1,3 +1,9 @@
 [submodule "shadedErrorBar"]
 	path = shadedErrorBar
 	url = https://github.com/raacampbell/shadedErrorBar.git
+[submodule "Plk4-model"]
+	path = Plk4-model
+	url = https://github.com/RaffLab/Plk4-model.git
+[submodule "PeCoS"]
+	path = PeCoS
+	url = https://github.com/RaffLab/PeCoS.git
