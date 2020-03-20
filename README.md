@@ -1,5 +1,5 @@
 # centriole_oscillator_model
-MATLAB code supporting the mathematical modelling component of Aydogan2019.
+MATLAB code supporting the mathematical modelling component of Aydogan & Steinacker, et al. 2020.
 
 Some plotting uses the shadedErrorBar function from https://github.com/raacampbell/shadedErrorBar.git which is linked to this repository as a git submodule.
 
